@@ -1,2 +1,1 @@
-# Robotron
-Projeto desenvolvido no curso de Manipulação do DOM da alura
+# robotron-2000
